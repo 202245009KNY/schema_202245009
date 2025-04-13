@@ -10,8 +10,8 @@
 - departments.sql  
 - orders.sql  
 - order_details.sql  
-- mileage_grades.sql  
-- hanbit_trade_db.sql
+- mileage_grades.sql
+- products.sql
 
 ## 학번  
 202245009
